@@ -1,4 +1,6 @@
-# Dashboard
+# VGI Dashboard
+
+![dashboard_view](dashboard_view.png)
 
 > [!NOTE]  
 > Check dependencies before running - ```pip install -r requirements.txt```
